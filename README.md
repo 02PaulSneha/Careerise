@@ -12,7 +12,7 @@
 
 ## Contributors
 -- Front-End :
-1. Sneha Paul
+1. Sneha Paul(1032)
 2. Rittima Biswas
 3. Aditya Roy Karmakar
 
